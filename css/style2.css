@@ -1,0 +1,20 @@
+
+.card
+{
+ opacity: 0.75;
+}
+
+.card-title
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-text-name
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-text
+{
+    font-family: 'Lato', sans-serif;
+}
