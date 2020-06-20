@@ -1,3 +1,9 @@
+@media only screen and (width: 600px) {
+  body {
+    background-color:#ff6f00;
+  }
+}
+
 /* Navbar */
 a
 {
@@ -53,7 +59,7 @@ a
    
    background-image: url('../img/green-plants-1089455.jpg');
     /* Set a specific height */
-    height: 600px;
+    height: 650px;
   
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -77,7 +83,7 @@ a
      
      background-image: url('../img/green-plants-1089455.jpg');
       /* Set a specific height */
-      height: 550px;
+      height: 600px;
     
       /* Create the parallax scrolling effect */
       background-attachment: fixed;
