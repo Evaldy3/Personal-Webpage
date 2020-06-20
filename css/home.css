@@ -1,0 +1,160 @@
+/* Navbar */
+a
+{
+  font-size:18px;
+  letter-spacing:0.1em;
+  margin: 0px 15px 0px 15px;
+  
+}
+.navbar li a
+{
+    color: #fff !important;
+}
+
+.navbar  {
+  background-color: #000;
+  
+}
+/* Avatar */
+  #avatar
+  {
+    border-radius: 50%;
+    width: 195px;
+    height: 195px;
+  }
+
+  /* Jumbotron */
+  #profile
+  {
+    border-radius: 0px;
+    margin: auto 0px;
+    padding-top: 80px;
+  }
+  #topic
+  {
+    border-radius: 0px;
+    margin: auto 0px;
+    background-color:#ffffff;
+   
+  }
+  
+
+ h4 {
+    
+    letter-spacing: 0.1em;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  
+    
+  }
+  /* Parallax */
+  .parallax {
+    /* The image used */
+   
+   background-image: url('../img/green-plants-1089455.jpg');
+    /* Set a specific height */
+    height: 600px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .parallax-1
+  {
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .parallax-2
+   {
+      /* The image used */
+     
+     background-image: url('../img/green-plants-1089455.jpg');
+      /* Set a specific height */
+      height: 550px;
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  /* h1 h4*/
+  h1 ,h5 { 
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  /* Typography */
+   #topic{
+    font-family: 'Lato', sans-serif;
+    font-size: 50px;
+    padding-bottom: 20px;
+  }
+  
+/* Footer */
+#footer{
+    background-color: #ffc400;
+    border-radius: 0px;
+    margin: auto 0px;
+    padding-bottom: 65px;
+    padding-top: 65px;
+}
+
+i{
+    margin: 12px;
+}
+
+
+/* Gallery*/
+.gallery-container h1 {
+  text-align: center;
+  margin-top: 70px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tz-gallery {
+  padding: 40px;
+  
+}
+
+.tz-gallery .lightbox img {
+  width: 70%;
+  margin-bottom: 30px;
+  transition: 0.2s ease-in-out;
+  box-shadow: 4px 4px 5px #c62828;
+}
+
+
+.tz-gallery .lightbox img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+.tz-gallery img {
+  border-radius: 4px;
+}
+
+/* Section */
+#mark1 {
+  
+  background-color: #d50000;
+}
+
+#mark2 {
+  
+  background-color: #ff6f00;
+}
+
+#mark3 {
+  
+  background-color: #004d40;
+}
+

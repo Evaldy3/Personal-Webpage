@@ -1,0 +1,27 @@
+
+.gallery-container h1 {
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.tz-gallery {
+    padding-bottom: 120px;
+}
+
+.tz-gallery .lightbox img {
+    width: 90%;
+    margin-bottom: 30px;
+    transition: 0.2s ease-in-out;
+    box-shadow: 4px 4px 5px #c62828;
+}
+
+
+.tz-gallery .lightbox img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+.tz-gallery img {
+    border-radius: 4px;
+}
