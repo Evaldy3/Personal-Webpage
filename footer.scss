@@ -1,0 +1,36 @@
+$background-color: #ffc400;
+
+#footer
+{
+    border-radius: 0px;
+    margin: auto 0px;
+    padding-bottom: 65px;
+    padding-top: 65px;
+    background-color: $background-color;
+}
+
+
+
+.parallax-2a
+{
+    
+    .card
+    {
+     opacity: 0.75;
+    }
+    
+    .card-title
+    {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .card-text-name
+    {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .card-text
+    {
+        font-family: 'Lato', sans-serif;
+    }
+}

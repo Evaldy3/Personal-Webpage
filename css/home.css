@@ -55,6 +55,7 @@ a
   }
   /* Parallax */
   .parallax {
+
     /* The image used */
    
    background-image: url('../img/green-plants-1089455.jpg');
@@ -67,7 +68,7 @@ a
     background-repeat: no-repeat;
     background-size: cover;
   }
-
+  
   .parallax-1
   {
     
@@ -105,14 +106,6 @@ a
     padding-bottom: 20px;
   }
   
-/* Footer */
-#footer{
-    background-color: #ffc400;
-    border-radius: 0px;
-    margin: auto 0px;
-    padding-bottom: 65px;
-    padding-top: 65px;
-}
 
 i{
     margin: 12px;
@@ -125,6 +118,7 @@ i{
   margin-top: 70px;
   font-family: 'Roboto', sans-serif;
 }
+
 
 .tz-gallery {
   padding: 40px;
@@ -147,6 +141,7 @@ i{
 .tz-gallery img {
   border-radius: 4px;
 }
+
 
 /* Section */
 #mark1 {
