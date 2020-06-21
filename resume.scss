@@ -1,15 +1,21 @@
-.parallax-3
-
+.parallax-2a
 {
       /* The image used */
       background-color: #eeeeee;
    
-      padding-bottom: 10px;
+      padding-bottom: 110px;
       padding-top: 10px;
 }
 
-h4
+.parallax-3
+{
+    @extend .parallax-2a;
+}
+
+
+ h4
  {
      padding-top: 20px;
      padding-bottom: 15px;
+     text-align: center;
  }

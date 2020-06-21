@@ -5,4 +5,20 @@
   padding-top: 65px;
   background-color: #ffc400;
 }
+
+.parallax-2a .card {
+  opacity: 0.75;
+}
+
+.parallax-2a .card-title {
+  font-family: 'Roboto', sans-serif;
+}
+
+.parallax-2a .card-text-name {
+  font-family: 'Roboto', sans-serif;
+}
+
+.parallax-2a .card-text {
+  font-family: 'Lato', sans-serif;
+}
 /*# sourceMappingURL=footer.css.map */
