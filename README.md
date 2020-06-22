@@ -35,3 +35,9 @@ e)my links on social networks (using footer a bootstrap class an glyphicon too)
 
 PS: in the requirements field i not used the table tag due to the fact i dont know how to put a table design who match with my project.
   i m very sorry about that , i would appreciate  if you consider this 
+
+
+  <video width="900" height="900" controls>
+      <source src="video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+</video>
