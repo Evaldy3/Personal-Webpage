@@ -51,6 +51,8 @@ a
     letter-spacing: 0.1em;
     font-family: 'Roboto', sans-serif;
     text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
   
     
   }
@@ -160,4 +162,3 @@ i{
   background-color: #004d40;
 }
 
-/* Table */
